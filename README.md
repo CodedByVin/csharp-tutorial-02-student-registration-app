@@ -1,6 +1,6 @@
 # C# Windows Forms: Student Registration App
 
-This repository contains the completed source code for Tutorial #2 on my YouTube channel. It demonstrates how to build a basic graphical user interface and apply OOP concepts in C#.
+This repository contains the completed source code for Tutorial #2 on my YouTube channel. It demonstrates how to capture, process, and display structured student registration data using C# and Windows Forms.
 
 **📺 Watch the full tutorial here:** (https://www.youtube.com/@codedbyvin).
 
